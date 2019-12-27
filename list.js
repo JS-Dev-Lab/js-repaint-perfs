@@ -70,5 +70,6 @@ var List =[
 		{ type: 'naive', id: 'hyperapp', url: './hyperapp', label: 'DBMON HyperApp' },
 		{ type: 'naive', id: 'stemjs', url: './stemjs/index.html', label: 'DBMON StemJS'},
 		{ type: 'optimized', id: 'stemjs', url: './stemjs-optimized', label: 'DBMON StemJS'},
-		{ type: 'naive', id: 'stencil', url: './stencil/index.html', label: 'DBMON Stencil' },
+    { type: 'naive', id: 'stencil', url: './stencil/index.html', label: 'DBMON Stencil' },
+    { type: 'naive', id: 'lit-html', url: './lit-html/index.html', label: 'DBMON lit-html' },
 	];
